@@ -8,10 +8,10 @@ serie GSE141549 de GEO.
 
 ### Estructura
 - `scripts`: contiene los scripts de R para el flujo de análisis.
-- `01_descarga_datos`: descarga automática de los datos desde GEO y fusión de las plataformas (HT-12 y WG-6).
-- `02_control_calidad`: control de calidad, detección de efectos de tanda, normalización por cuantiles y curación metadata.
-- `03_DEA_limma`: ajuste de modelos lineales utilizando limma para realizar un análisis de expresión diferencial.
-- `04_analisis_funcional`: análisis de enriquecimiento funcional (GSEA y ORA) y construcción de redes de interacción proteína-proteína.
+  - `01_descarga_datos`: descarga automática de los datos desde GEO y fusión de las plataformas (HT-12 y WG-6).
+  - `02_control_calidad`: control de calidad, detección de efectos de tanda, normalización por cuantiles y curación metadata.
+  - `03_DEA_limma`: ajuste de modelos lineales utilizando limma para realizar un análisis de expresión diferencial.
+  - `04_analisis_funcional`: análisis de enriquecimiento funcional (GSEA y ORA) y construcción de redes de interacción proteína-proteína.
 
 ### Requisitos y librerías
 Para el análisis se requiere R  y las siguientes librerías principales:
