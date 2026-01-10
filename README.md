@@ -1,5 +1,5 @@
 ## Estudio transcriptómico en endometrio
-Este repositorio contiene el código y flujo de trabajo asociado al trabajo **"Firmas transcriptómicas moleculares de la endometriosis reveladas mediante análisis in sílico"**.
+Este repositorio contiene el código y flujo de trabajo asociado al trabajo **"Firmas transcriptómicas moleculares de la endometriosis reveladas mediante análisis in silico"**.
 
 ### Descripción
 El objetivo del estudio es  analizar, mediante herramientas bioinformáticas, los perfiles de expresión génica del endometrio eutópico y de las lesiones ectópicas
